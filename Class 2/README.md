@@ -1,0 +1,1 @@
+This is the repository for the exercise of the session 2.
