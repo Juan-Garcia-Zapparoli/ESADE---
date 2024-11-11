@@ -1,6 +1,6 @@
-### **Session 3 README**
+# **Session 3 README**
 
-```markdown
+
 # Python for Data Science - Session 3
 
 ## Overview
